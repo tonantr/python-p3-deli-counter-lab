@@ -3,7 +3,7 @@
 ## Learning Goals
 
 - Practice building functions that use iteration and controlling their return
-  values
+  values.
 - Practice manipulating lists (adding elements, removing elements, etc.)
 
 ***
